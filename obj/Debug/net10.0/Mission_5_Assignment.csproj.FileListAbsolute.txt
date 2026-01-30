@@ -94,4 +94,5 @@
 /Users/gnelman/Documents/BYU/IS JUNIOR CORE/Winter 2026/IS 413 - Application Dev/Mission 5 Assignment/Mission_5_Assignment/Mission_5_Assignment/obj/Debug/net10.0/Mission_5_Assignment.genruntimeconfig.cache
 /Users/gnelman/Documents/BYU/IS JUNIOR CORE/Winter 2026/IS 413 - Application Dev/Mission 5 Assignment/Mission_5_Assignment/Mission_5_Assignment/obj/Debug/net10.0/ref/Mission_5_Assignment.dll
 /Users/gnelman/Documents/BYU/IS JUNIOR CORE/Winter 2026/IS 413 - Application Dev/Mission 5 Assignment/Mission_5_Assignment/Mission_5_Assignment/obj/Debug/net10.0/compressed/ms76jwzxuu-{0}-fd7ph3ps93-fd7ph3ps93.gz
-/Users/gnelman/Documents/BYU/IS JUNIOR CORE/Winter 2026/IS 413 - Application Dev/Mission 5 Assignment/Mission_5_Assignment/Mission_5_Assignment/obj/Debug/net10.0/compressed/hr5uq069cf-{0}-eab6drx1y2-eab6drx1y2.gz
+/Users/gnelman/Documents/BYU/IS JUNIOR CORE/Winter 2026/IS 413 - Application Dev/Mission 5 Assignment/Mission_5_Assignment/Mission_5_Assignment/obj/Debug/net10.0/Mission_5_Assignment.sourcelink.json
+/Users/gnelman/Documents/BYU/IS JUNIOR CORE/Winter 2026/IS 413 - Application Dev/Mission 5 Assignment/Mission_5_Assignment/Mission_5_Assignment/obj/Debug/net10.0/compressed/hr5uq069cf-{0}-4ixqb2ekbn-4ixqb2ekbn.gz
