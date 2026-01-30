@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Pricing";
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pricing Calculator - Organ Studio</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</head>
+<body>
+
+<header>
+    <h1>Private Organ Instruction</h1>
+</header>
+<br/>
+<main>
+    
+    <!-- HTML Form for getting data -->
+    <div class="calculator" style="max-width: 400px; margin: 3rem auto; padding: 2rem; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <h2 style="text-align: center; margin-bottom: 1.5rem; color: #333;">Pricing Calculator</h2>
+
+        <div class="form-group" style="margin-bottom: 1rem;">
+            <label for="hours">Number of Hours:</label>
+            <input type="number" id="hours" min="0" step="0.01" required class="form-control">
+        </div>
+
+        <div class="form-group" style="margin-bottom: 1rem;">
+            <label for="rate">Rate per Hour:</label>
+            <input type="text" id="rate" value="$25" readonly class="form-control">
+        </div>
+
+        <div class="form-group" style="margin-bottom: 1rem;">
+            <button id="calculateButton" class="btn btn-primary w-100">Calculate Total</button>
+        </div>
+
+        <div class="form-group" style="margin-bottom: 0;">
+            <label for="total">Total:</label>
+            <input type="text" id="total" readonly class="form-control">
+        </div>
+    </div>
+</main>
+</body>
